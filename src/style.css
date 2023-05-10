@@ -1,10 +1,7 @@
-.div {
-  background-image: url("images/background.jpeg");
-}
-
 .container {
   display: block;
 }
+
 .weather-app {
   border: 2px solid yellow;
   padding: 40px;
