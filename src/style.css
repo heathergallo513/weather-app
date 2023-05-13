@@ -12,7 +12,7 @@ body {
   max-width: 800px;
   margin: 30px auto;
   border-radius: 30px;
-  border-image: linear-gradient(#1eaef6, #e3f4fe, #fffae0, #ffcd00) 30;
+  border-image: linear-gradient(#075ed6, #e3f4fe, #fffae0, #ffcd00) 30;
   border-width: 6px;
   border-style: solid;
 }
