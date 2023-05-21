@@ -21,6 +21,7 @@ body {
     #b8dcff 48%,
     #6bbbff 100%
   );
+  background-blend-mode: normal, lighten, soft-light;
 }
 footer {
   text-align: center;
